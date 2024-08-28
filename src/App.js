@@ -1,5 +1,4 @@
 import { useState } from 'react';
-import HandIcon from './HandIcon';
 import Dice from './Dice';
 import Button from './Button'
 
